@@ -1,5 +1,5 @@
-# DeepSeek r2 中文官网、网页版入口、下载及使用教程（支持DeepSeek R1、DeepSeek-V3、DeepSeek-Coder、GPT-4o、Claude、Gemini，无需翻墙）【6月最新】
-**更新时间：2025/06/01**
+# DeepSeek r2 中文官网、网页版入口、下载及使用教程（支持DeepSeek R1、DeepSeek-V3、DeepSeek-Coder、GPT-4o、Claude、Gemini，无需翻墙）【10月最新】
+**更新时间：2025/10/02** 
 
 --- 
 
@@ -17,7 +17,7 @@ DeepSeek是由国内顶尖AI研发团队推出的大型语言模型（LLM），�
 
 [https://xsimplechat.com](https://xsimplechat.com)
 
-[https://chat.lanjing.pro](https://chat.lanjing.pro)
+[https://chat.lanjing.pro](https://ai.lanjing.pro)
 
 ---
 
@@ -28,7 +28,7 @@ DeepSeek是由国内顶尖AI研发团队推出的大型语言模型（LLM），�
 | 推荐站点地址                        | 支持模型                          | 免费额度 | 注册方式       | 稳定性 | 功能亮点                                                        |
 |------------------------------------|----------------------------------|----------|----------------|--------|---------------------------------------------------------------|
 | [https://xsimplechat.com](https://xsimplechat.com) | DeepSeek-V3、DeepSeek-R1、Claude 4 Sonnet、GPT-4.5、AI绘画等 | 有       | 支持国内邮箱   | ★★★★★ | 支持DeepSeek各大模型与AI绘图、PPT功能强大，功能齐全，体验佳          |
-| [https://chat.lanjing.pro](https://chat.lanjing.pro) | DeepSeek-V3、DeepSeek-R1、GPT-4.0 turbo、Claude Sonnet | 有       | 支持国内邮箱   | ★★★★★ | 支持GPT-4、Claude、DeepSeek-V3等，AI工具与插件丰富，适合生产力提升  |
+| [https://chat.lanjing.pro](https://ai.lanjing.pro) | DeepSeek-V3、DeepSeek-R1、GPT-4.0 turbo、Claude Sonnet | 有       | 支持国内邮箱   | ★★★★★ | 支持GPT-4、Claude、DeepSeek-V3等，AI工具与插件丰富，适合生产力提升  |
 | [https://chat.gpt4us.org](https://chat.gpt4us.org) | DeepSeek R1满血版、GPT全系列、Claude | 有       | 国内邮箱或免注册 | ★★★★★ | 全系DeepSeek模型体验，AI写作、数据分析与多模型切换灵活                |
 
 ---
@@ -62,7 +62,7 @@ DeepSeek是由国内顶尖AI研发团队推出的大型语言模型（LLM），�
 1. **选定DeepSeek镜像站**  
    推荐地址：
    - [https://xsimplechat.com](https://xsimplechat.com)
-   - [https://chat.lanjing.pro](https://chat.lanjing.pro)
+   - [https://chat.lanjing.pro](https://ai.lanjing.pro)
    - [https://chat.gpt4us.org](https://chat.gpt4us.org)
 2. **注册/免注册均可用**  
    - 注册：国内邮箱或手机号快速开户；
@@ -112,7 +112,7 @@ DeepSeek是由国内顶尖AI研发团队推出的大型语言模型（LLM），�
 | 网站名称                            | 支持内容                                         |
 |-----------------------------------|-------------------------------------------------|
 | [https://xsimplechat.com](https://xsimplechat.com) | DeepSeek-V3、DeepSeek-Coder、Claude 4 Sonnet、GPT-4.5、GPT o1、AI绘画 |
-| [https://chat.lanjing.pro](https://chat.lanjing.pro) | DeepSeek-V3、GPT-4.0 turbo、Claude Sonnet、AI PPT、插件         |
+| [https://chat.lanjing.pro](https://ai.lanjing.pro) | DeepSeek-V3、GPT-4.0 turbo、Claude Sonnet、AI PPT、插件         |
 | [https://chat.gpt4us.org](https://chat.gpt4us.org) | DeepSeek R1满血版、GPT系列、Claude                     |
 
 快来选择合适的DeepSeek通道，体验中文AI与代码助手的无限魅力吧！
